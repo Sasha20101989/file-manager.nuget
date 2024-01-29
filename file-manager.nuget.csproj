@@ -17,8 +17,8 @@
 Использование формата JSON: "FileManager" использует формат JSON для сериализации и десериализации данных, что обеспечивает читаемость данных и удобство работы с ними.
 		</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>http://10.135.130.163/itis/is/creuc/nuget-galery/nuget-library/file-manager.nuget</PackageProjectUrl>
-    <RepositoryUrl>http://10.135.130.163/itis/is/creuc/nuget-galery/nuget-library/file-manager.nuget</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Sasha20101989/file-manager.nuget</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Sasha20101989/file-manager.nuget</RepositoryUrl>
     <RepositoryType>Class Library WPF</RepositoryType>
     <Authors>Aleksander Felyugin</Authors>
     <PackageId>File.Manager</PackageId>
